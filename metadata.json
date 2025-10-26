@@ -1,0 +1,5 @@
+{
+  "name": "FchatgptAI",
+  "description": "A ChatGPT-style web application powered by Google's Gemini API, featuring user authentication and persistent chat history stored in LocalStorage.",
+  "requestFramePermissions": []
+}
